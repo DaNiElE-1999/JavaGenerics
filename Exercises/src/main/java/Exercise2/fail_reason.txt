@@ -1,2 +1,2 @@
-The compilation will fail because '>' operator cannot
-be applied with generic variables T.
+The compilation will fail because 'greater than'
+ (>) operator applies only to primitive numeric types.
