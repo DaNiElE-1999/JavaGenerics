@@ -1,1 +1,0 @@
-No. Because Node<Circle> is not a subtype of Node<Shape>.
